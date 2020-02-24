@@ -19,4 +19,5 @@
 - Build and run the Docker image to execute all tests on my submission to this coding challenge:
 
 $ docker build -t jw_latitude_challenge .
+
 $ docker run -it --rm --name jw_latitude_challenge_running jw_latitude_challenge
